@@ -6,10 +6,9 @@ This is the package the other libraries build on.
 
 ## Install
 
-Packagist does not host this package. Point Composer at GitHub, then require version 1.0:
+Install [kschroeder/spaced-tracker](https://packagist.org/packages/kschroeder/spaced-tracker) from Packagist:
 
 ```bash
-composer config repositories.spaced-tracker vcs https://github.com/kschroeder/spaced-tracker
 composer require kschroeder/spaced-tracker:^1.0
 ```
 
