@@ -12,6 +12,8 @@ Install [kschroeder/spaced-tracker](https://packagist.org/packages/kschroeder/sp
 composer require kschroeder/spaced-tracker:^1.0
 ```
 
+To work on this repository, clone it and run `composer update`. The repository has no lock file.
+
 PHP `^8.2`. For a concrete HTTP stack, also install one of:
 
 ```bash

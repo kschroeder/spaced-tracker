@@ -6,6 +6,7 @@
 /coverage/
 /auth.json
 composer.phar
+/composer.lock
 .env
 .env.*
 !.env.example
