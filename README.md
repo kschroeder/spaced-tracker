@@ -1,6 +1,6 @@
 # kschroeder/spaced-tracker
 
-PHP client for the [Space-Track.org](https://www.space-track.org) API. MIT license. Copyright 2026 Kevin Schroeder. It speaks every documented controller and request class, including classes added later through `Query::custom()`. The library depends on PSR interfaces and actively maintained HTTP packages. It does not depend on an existing Space-Track client.
+PHP client for the [Space-Track.org](https://www.space-track.org) API. MIT license. It speaks every documented controller and request class, including classes added later through `Query::custom()`. The library depends on PSR interfaces and actively maintained HTTP packages. It does not depend on an existing Space-Track client.
 
 This is the package the other libraries build on.
 
@@ -163,3 +163,5 @@ Keep the Space-Track password in the environment or a secret store. Do not put i
 | [kschroeder/spaced-tracker-ai](https://github.com/kschroeder/spaced-tracker-ai) | Language-model adapters and orbital analysis |
 | [kschroeder/spaced-tracker-laravel](https://github.com/kschroeder/spaced-tracker-laravel) | Laravel service provider and facade |
 | [kschroeder/spaced-tracker-symfony](https://github.com/kschroeder/spaced-tracker-symfony) | Symfony bundle |
+
+Copyright 2026 Kevin Schroeder.
